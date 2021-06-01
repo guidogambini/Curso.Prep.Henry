@@ -1,0 +1,5 @@
+Variables: son una herramienta para almacenar distintos valores y poder llamarlos más adelante.
+Strings: cadenas de caracteres (por ejemplo: 'Guido').
+Funciones: facilitan las ejecuciones de tareas genéricas. Pueden o no incluir argumentos (variables internas a la función) y es recomendable utilizar la palabra clave 'return' para que la función devuelva valores.
+Declaraciones: filtran el flujo de trabajo. Si se cumplen determinadas condiciones, la ejecución se llevará a cabo de determinada manera.
+Valores booleanos: lógica binaria que divide el flujo en verdadero o falso.
