@@ -1,0 +1,6 @@
+for: bucle que sirve para repetir determinada tarea hasta que una condición creada deje de cumplirse.
+Su sintaxis es la siguiente: for (inicilización con variable; condición; nueva modificación).
+&&, || y !: son operadores lógicos (and, or and not). Actúan mediante una lógica booleanda binaria true-false.
+Para que && sea true, ambas condiciones deben ser true; mientras que para que || sea true, bastará con
+que una de las expresiones sea verdadera. El uso del ! invierte el sentido del booleano original.
+Por ejemplo: 8 === 8, !8 !== 8.
