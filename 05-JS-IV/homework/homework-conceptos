@@ -1,0 +1,6 @@
+Objetos: conjunto de pares key-value que le otorgan diversas propiedades y/o métodos a la variable en cuestión. ¡Todo en JS son objetos!
+Propiedades: atributos de determinado objeto. Se asignan mediante el empleo de claves-valores (cada propiedad responde a una clave diferente). Luego podrán ser llamadas a través de la notación por corchetes o por punto.
+Métodos: las funciones asignadas como valores a claves de un objeto.
+Bucle "for... in": herramienta de iteración por el interior de un objeto.
+Notación de puntos vs. notación de corchetes: dos maneras distintas de mostrar el valor (propiedad o método) de cualquier clave de un objeto.
+Por ejemplo: guido.localidad o guido['localidad'].
