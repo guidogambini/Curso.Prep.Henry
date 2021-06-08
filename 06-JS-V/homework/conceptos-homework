@@ -1,0 +1,2 @@
+Prototype: referencia que todos los objetos mantienen con respecto a otro objeto del cual hereda sus propiedades. La cadena de herencia solo se corta al llegar al prototipo "Objeto" alfa.
+Constructors: funciones constructoras de clases. A partir de estas clases se podrán instanciar infinitos nuevos objetos con sus propiedades particulares.
