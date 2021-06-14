@@ -1,0 +1,3 @@
+Funciones Callback: así se denominan a las funciones que forman parte del argumento de otras funciones.
+Es decir, las funciones Callback sólo se ejecutarán al ser invocadas las funciones de las cuales forman parte.
+Ejemplos: array.forEach(Callback), array.map(Callback), array.reduce(Callback).
