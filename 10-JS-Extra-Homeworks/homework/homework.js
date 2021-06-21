@@ -20,11 +20,11 @@ function numberOfCharacters(string) {
   //Ej: Recibe ---> "adsjfdsfsfjsdjfhacabcsbajda" || Devuelve ---> { a: 5, b: 2, c: 2, d: 4, f: 4, h:1, j: 4, s: 5 } 
   //Escribe tu código aquí
   var obj = {};
-  for(let l in string) {
-    if(!obj[string[l]]){
-      obj[string[l]] = 1;
+  for(let l of string) {
+    if(!obj[l]){
+      obj[l] = 1;
     } else { 
-        obj[string[l]] = obj[string[l]]  + 1;
+        obj[l] = obj[l]  + 1;
     }
   }
     return obj;
